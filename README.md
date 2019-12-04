@@ -1,4 +1,4 @@
-Compiling C++ applications with Codefresh
+Compiling C++ application
 =============
 
 This project is a C++ template project with `cmake`.
